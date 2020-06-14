@@ -1,4 +1,5 @@
 #Hangman game
+
 import random
 def validate(guess):
     #check guess is 1 char long and guess is in the alphabet
