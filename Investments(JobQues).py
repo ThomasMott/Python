@@ -1,3 +1,5 @@
+#show what stocks and bonds need to be bought and sold to make even
+
 string = "microsoft,stock,11;Google,stock,5;Google,bond,1|microsoft,stock,10;Google,bond,10"
 
 #split string by remving "|"
